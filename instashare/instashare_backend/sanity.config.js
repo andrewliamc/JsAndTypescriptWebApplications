@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'instashare',
 
-  projectId: '65ozf79f',
+  projectId: '4ifrfwsz',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
