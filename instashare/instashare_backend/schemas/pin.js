@@ -15,13 +15,13 @@ export default {
     },
     {
       name: 'destination',
-      title: 'destination',
+      title: 'Destination',
       type: 'url',
     },
     {
       name: 'category',
       title: 'Category',
-      type: 'url',
+      type: 'string',
     },
     {
       name: 'image',
