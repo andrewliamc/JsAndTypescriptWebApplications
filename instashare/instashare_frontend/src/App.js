@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { Routes, Route, useNavigate } from 'react-router-dom';
 import { gapi } from 'gapi-script';
-import Home from './components/Home';
+import Home from './container/Home';
 import Login from './components/Login';
 
 
